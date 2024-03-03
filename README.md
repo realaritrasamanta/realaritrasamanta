@@ -34,7 +34,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -57,7 +57,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img height="200" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611dn82wy8yo1g168ux832kb1sfb72j93gigqg8hku0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
