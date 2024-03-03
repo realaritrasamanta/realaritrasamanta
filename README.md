@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🚀 Greetings, fellow explorers of the digital frontier! I am Aritra Samanta, an impassioned Tech Enthusiast and Full Stack Developer on a mission to shape the future of the digital landscape. With a keen eye for innovation and a love for elegant code, I am dedicated to crafting seamless, user-centric experiences that transcend the boundaries of possibility.</h3>
+<h2 align="left">🚀 Greetings, fellow explorers of the digital frontier! I am Aritra Samanta, an impassioned Tech Enthusiast and Full Stack Developer on a mission to shape the future of the digital landscape. With a keen eye for innovation and a love for elegant code, I am dedicated to crafting seamless, user-centric experiences that transcend the boundaries of possibility.</h2>
 
 ###
 
